@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NovelTTS</string>
+    <string name="notification_channel">Playback</string>
+    <string name="notification_desc">Novel chapter narration controls</string>
+</resources>
